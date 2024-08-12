@@ -17,3 +17,12 @@ This is a project is a Browser extension that allows users to Nuke(close tabs) t
 - ![Screenshot (1027)](https://github.com/user-attachments/assets/c5a873e2-2c58-4825-ae2c-a082b76b67ce)
 
 ![Screenshot (1029)](https://github.com/user-attachments/assets/fd2113ce-38a4-4e39-9f50-39fe02600da9)
+
+
+Now that You have it up and running i small Donation would be much appreciated Crypto Wallets are:
+
+ETH - 0xc98e59ac9c135422162C63C9D541Ed3dF9448b56 
+
+USDC (Sol net.) - D3KKy8UvDFJ4Zf6TYZCXfTNX8RXJKwVLaHqbK4H4GAUo
+
+BTC - bc1qst3vxxf2z8dx6u3yqua5rqhgggfhw9ym32kl67
