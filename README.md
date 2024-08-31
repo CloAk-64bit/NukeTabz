@@ -1,5 +1,5 @@
 # NukeTabz
-This is a Browser extension that allows users to Nuke(close tabs) their browser tabs they don't want open any more by adding URLs (tabs) they do want to keep separated with " , (comma)" if they have multiple tabs they want to keep open
+This is a Browser extension that allows users to Nuke(close tabs) their browser tabs they don't want open any more by adding URLs (tabs) they do want to keep separated with " ~ (tilde)" if they have multiple tabs they want to keep open
 
 # How to get Started:
 - Firstly you will need to unzip the file.
@@ -12,7 +12,7 @@ This is a Browser extension that allows users to Nuke(close tabs) their browser 
 
 # How to use it:
 - Go to extensions look for NukeTabz.
-- click it NukeTabz will appear (Keep in mind if you have more then one url you want to keep open suggest make a list first in notepad separated with commas then just past it in ctrl+v ).
+- click it NukeTabz will appear (Keep in mind if you have more then one url you want to keep open suggestion make a list first in notepad separated with tilde then just past it in ctrl+v ).
 - Then click Submit and let the magic happen. depending on how many tabz are open can take a little while...
 - ![Screenshot (1027)](https://github.com/user-attachments/assets/c5a873e2-2c58-4825-ae2c-a082b76b67ce)
 
